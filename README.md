@@ -1,28 +1,29 @@
-// # Cognifyz Technologies Internship
+# Cognifyz Technologies Internship Program
 
-// Welcome to the Cognifyz Technologies Internship repository! 🚀
+Welcome to the Cognifyz Technologies Internship Program repository! 🚀 This repository documents the tasks and requirements for our Java Development internship program.
 
-// ## Overview
+## About Us
+Cognifyz Technologies is a leading technology company specializing in data science, AI, and machine learning solutions. We offer a wide range of products and services and provide training programs to enhance skills in these areas.
 
-// This repository documents my journey and experiences during my internship at Cognifyz Technologies. Throughout this internship, I had the opportunity to dive deep into Java development, data science, and artificial intelligence. 
+## Internship Overview
+Our internship program offers hands-on experience in Java development through a series of tasks designed to enhance your skills and knowledge. You'll have the opportunity to choose any 2 of 3 levels, each containing tasks of varying complexity.
 
-// ## Internship Tasks
+## Task Levels
+- **Level 1**: Basic tasks focusing on fundamental Java concepts.
+- **Level 2**: Intermediate tasks covering more advanced topics like encryption and networking.
+- **Level 3**: Advanced tasks requiring deeper understanding of concurrency, GUI development, and API integration.
 
-// - Level 1: Completed tasks including Palindrome Checker, Student Grade Calculator, Random Password Generator, and Tic-Tac-Toe Game.
-// - Level 2: Tackled challenges such as Password Strength Checker and File Encryption/Decryption.
-// - Level 3: Developed a Currency Converter application, showcasing API integration and JSON parsing skills.
+## Submission Guidelines
+- Create a professional video showcasing your internship projects and achievements.
+- Host the video on LinkedIn and tag Cognifyz Technologies.
+- Use hashtags like #cognifyz, #cognifyzTech, and #cognifyzTechnologies for visibility.
+- A submission form will be shared later for official documentation.
 
-// ## Achievements
+## Contact Us
+For more information, contact us at:
+- Email: contact@cognifyz.com 📧
+- LinkedIn: [@cognifyz-Technologies](https://www.linkedin.com/company/cognifyz-technologies) 🔗
+- Website: [www.cognifyz.com](https://www.cognifyz.com) 🌐
+- Twitter: [@cognifyz_tech](https://twitter.com/cognifyz_tech) 🐦
 
-// - Successfully completed a 10-day coding streak on Naukri Code 360.
-// - Contributed to various projects aimed at delivering innovative solutions using data and intelligence.
-
-// ## Learning Outcomes
-
-// - Enhanced proficiency in Java programming, including string manipulation, loops, and conditional statements.
-// - Acquired practical experience in API integration, JSON parsing, and file handling.
-// - Improved problem-solving skills and ability to tackle real-world programming challenges.
-
-// ## Conclusion
-
-// My internship journey at Cognifyz Technologies has been immensely rewarding. I am grateful for the opportunity to learn, grow, and contribute to impactful projects. Thank you to the entire team at Cognifyz for their guidance and support throughout this journey.
+We look forward to your participation in the Cognifyz Technologies Internship Program! 🎓
